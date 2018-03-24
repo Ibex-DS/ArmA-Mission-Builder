@@ -1,0 +1,18 @@
+{
+	"general": {
+		"production": false,
+		"verbose": false
+	},
+	"missions": [
+		{
+			"name": {
+				"prefix": "",
+				"random": true
+			},
+			"source": "",
+			"destinations": [],
+			"suffix": "",
+			"compression": []
+		}
+	]
+}
