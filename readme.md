@@ -29,7 +29,7 @@ There can be multiple mission object specified to mass pack missions or mods.
 	"source": "",
 	"destinations": [],
 	"suffix": "",
-	"files": []
+	"compression": []
 }
 ```
 
